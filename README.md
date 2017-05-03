@@ -1,5 +1,10 @@
 # Super Golden Gates Visualization
-Visualization of the Super Golden Gates for PU(2)
+Visualization of the Super Golden Gates for PU(2).
 
-See [Paper by Parzanchevski and Sarnak](https://arxiv.org/abs/1704.02106)
+See [Paper by Parzanchevski and Sarnak](https://arxiv.org/abs/1704.02106).
+
+
+Mathematica code. Run the file "GoldenGatesDemo.nb".
+This demo is hardcoded for the cube and tetrahedron. 
+
 
