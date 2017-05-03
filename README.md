@@ -5,6 +5,7 @@ See [Paper by Parzanchevski and Sarnak](https://arxiv.org/abs/1704.02106).
 
 
 Mathematica code. Run the file "GoldenGatesDemo.nb".
+
 This demo is hardcoded for the cube and tetrahedron. 
 
 
